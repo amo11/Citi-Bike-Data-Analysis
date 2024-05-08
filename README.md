@@ -28,6 +28,7 @@ The Citi Bike dataset contains below variables:
 
 ## Analysis
  + *Rush Hours (July)*
+   
    The below graphical representations indicate different rush hours for each user type i.e. Members and Casuals.
 
    ![Rush Hour-member](https://github.com/amo11/citi-bike-data-analysis/assets/169110417/823d3f4f-41ca-4482-bf93-970637d3941c)
@@ -40,6 +41,7 @@ The Citi Bike dataset contains below variables:
    There is a curve observed for Casuals with maximum number of riders between 5 PM to 6 M with majority of Casuals being tourists/travelers who would love to explore the top attractions of the city and witness beautiful sunset from magnificent skyline of NYC. 
 
  + *Daily Ride Analysis*
+   
    By analyzing July data, we see a fine correlation between number of riders and a particular day(weekday/weekend/holiday).
 
    ![Daily ride analysis- members](https://github.com/amo11/citi-bike-data-analysis/assets/169110417/77a736dd-723f-4872-b89d-ec538abf44f4)
@@ -60,6 +62,7 @@ The Citi Bike dataset contains below variables:
    The variation in total number of riders in different months can be attributed to the season during a particular month i.e. winter, spring, summer, autumn.
 
  + *Seasonal*
+   
    To understand the seasonal trend of the Citi Bike riders, I have grouped twelve months of a year in four seasons. i.e. Winter (December, January, February), Spring (March, April, May), Summer (June, July, August), Autumn (September, October, November).
 
    ![Seasonal](https://github.com/amo11/citi-bike-data-analysis/assets/169110417/45ff638a-70d2-4a97-94b1-57e2852d97e9)
@@ -67,6 +70,7 @@ The Citi Bike dataset contains below variables:
 The greatest number of riders is observed in Summer clearly due to favorable weather conditions for bike riders which gradually decreases leaving us with the least number of riders in Winter due to odd weather conditions. This is quite self-explanatory. 
 
 + *Electric Bike Trend*
+  
   With increasing popularity of electric vehicles, it’s quite interesting to see how the electric bikes of Citi Bike is doing in NYC.
 
   ![Electric Vehicle trend](https://github.com/amo11/citi-bike-data-analysis/assets/169110417/32a8f3cc-5e34-47a6-a127-628c940ab8d4)
