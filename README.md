@@ -9,3 +9,5 @@ Hence, to avoid the hefty cab price and traffic, the city provides a number of t
 
 ## Data collection
 The study uses publicly available data from Citi Bike web portal(https://citibikenyc.com/system-data) for the year 2023. Their data for the months of March, July, October and December has been analyzed.
+
+The Citi Bike dataset contains below variables:
