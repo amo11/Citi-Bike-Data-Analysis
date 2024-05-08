@@ -12,4 +12,6 @@ The study uses publicly available data from [Citi Bike web portal](https://citib
 
 The Citi Bike dataset contains below variables:
 
-| Variables |  
+| Variables |  Description |
+| --------- | ------------ |
+| Rideable type | A unique ID for each ride |
