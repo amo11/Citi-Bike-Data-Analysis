@@ -12,6 +12,17 @@ The study uses publicly available data from [Citi Bike web portal](https://citib
 
 The Citi Bike dataset contains below variables:
 
-| Variables |  Description |
+| <ins> Variables </ins> | <u> Description </u> |
 | --------- | ------------ |
 | Rideable type | A unique ID for each ride |
+| Started at | Time stamp of each ride when started |
+| Ended at | Time stamp of each ride when ended |
+| Start station name | Address of start station |
+| Start station ID | Unique ID of the station where a trip started |
+| End station name | Address of end station |
+| End station ID | Unique ID of the station where a trip ended |
+| Start latitude/ Start longitude | Geographic coordinates of start station name |
+| End latitude/ End Longitude | Geographic coordinates of end station name |
+| Member or casual ride | Member- Rider having membership Casual – Rider having one day (24 hours) subscription|
+
+
