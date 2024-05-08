@@ -27,4 +27,5 @@ The Citi Bike dataset contains below variables:
 | Member or casual ride | Member- Rider having membership Casual – Rider having one day (24 hours) subscription|
 
 ## Analysis
-
+ + *Rush Hours (July)*
+   
