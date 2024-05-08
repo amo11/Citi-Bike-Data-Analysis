@@ -32,5 +32,6 @@ The Citi Bike dataset contains below variables:
 
    ![Rush Hour-member](https://github.com/amo11/citi-bike-data-analysis/assets/169110417/823d3f4f-41ca-4482-bf93-970637d3941c)
 
-We see two peaks for Members, one at 8 AM and another between 4 PM to 7 PM. Thus, we can predict that majority of the Members are doing job or working professionals or students. 
+   We see two peaks for Members, one at 8 AM and another between 4 PM to 7 PM. Thus, we can predict that majority of the Members are 
+   doing job or working professionals or students.  
 
