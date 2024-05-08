@@ -33,5 +33,12 @@ The Citi Bike dataset contains below variables:
    ![Rush Hour-member](https://github.com/amo11/citi-bike-data-analysis/assets/169110417/823d3f4f-41ca-4482-bf93-970637d3941c)
 
    We see two peaks for Members, one at 8 AM and another between 4 PM to 7 PM. Thus, we can predict that majority of the Members are 
-   doing job or working professionals or students.  
+   doing job or working professionals or students.
+   
+   ![Rush Hours(Casuals)](https://github.com/amo11/citi-bike-data-analysis/assets/169110417/98cff7c4-ebb3-4244-a282-8213975259a3)
+
+   There is a curve observed for Casuals with maximum number of riders between 5 PM to 6 M with majority of Casuals being tourists/travelers who would love to explore the top attractions of the city and witness beautiful sunset from magnificent skyline of NYC. 
+
+
+ 
 
