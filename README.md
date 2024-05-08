@@ -78,6 +78,21 @@ The greatest number of riders is observed in Summer clearly due to favorable wea
 
   The above represents the downward trend for the electric bikes. Started with approx. 19.6% share of total rides in January goes down to 3.44% share of total rides in December. This is quite intriguing and it prompts us to identify the reason/s - if there is a lack of infrastructure for the electric bike in NYC? Or are there any operational issues (such as less speed, heavy body, bad look and feel) faced by riders? Or the pricing for electric bike is not affordable to riders? Or are there any other hidden issues/reasons for losing traction of electric bikes? A detailed survey/feedback from riders can be helpful to address the issue.
 
++ *Popular Routes*
+  
+  It’s quite interesting to identiy which routes are the busiest routes in NYC for each type of rider. Below map showcase the ten most popular routes indicated as two different colored circles for each type of riders.
+  <br/>
+  We can see that most of the casual riders ride around tourist attraction points like Manhattan Island, Columbus Circle, Hudson Square, Colonels Row etc., while the majority of member riders’ busy routes are in corporate area of Manhattan.
+
+  ![Busy routes](https://github.com/amo11/citi-bike-data-analysis/assets/169110417/9a21f2f0-5e1c-4eac-902c-3c78609ea2cd)
+
++ *Weather Factors*
+
+  The impact of weather parameters such as Average/Maximum/Minimum daily temperature, snow fall, air wind etc. on number of riders will be incorporated soon in further study.
+
+## Conclusion
+The data analysis aimed to understand the rider’s pattern on the basis of various external parameters such as time of the hour, weekend/weekday/holiday, type of bikes, popular routes, seasons etc in order to understand the customer base and maximize the happy riders around the city. From the study, it can be concluded that the rush hours for Member riders matches with the office hours while that of casuals are during evening/free time of the day during March, July, October and December. A noticeable pattern has been seen for number of riders on weekend/weekday/holiday where Member riders are more on weekdays while Casuals are more on weekends with exception on July 4, 2023 (weekday) which is a national holiday. Seasons seem to be playing a crucial role for riders as riders are seen maximum during summer and the minimum in winters. Moreover, the trend of electric bikes represented as percentage of total rides (all types of bikes) shows the decreasing traction among riders over months. This leads to identify the challenges and area of improvements of rider with electric bikes. Lastly, a very interesting study done that shows the top 10 busiest routes along with total count of rides on respective routes for each type of rider. It’s evident that the casual riders ride around tourist attraction points like Manhattan Island, Columbus Circle, Hudson Square, Colonels Row etc., while the majority of member riders’ busy routes are in corporate area of Manhattan.
+
 
 
  
