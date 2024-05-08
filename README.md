@@ -30,4 +30,5 @@ The Citi Bike dataset contains below variables:
  + *Rush Hours (July)*
    The below graphical representations indicate different rush hours for each user type i.e. Members and Casuals.
 
-   /E:/BI Project/Graphs/Rush Hour-member.png
+   ![Rush Hour-member](https://github.com/amo11/citi-bike-data-analysis/assets/169110417/823d3f4f-41ca-4482-bf93-970637d3941c)
+
