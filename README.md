@@ -12,4 +12,4 @@ The study uses publicly available data from [Citi Bike web portal](https://citib
 
 The Citi Bike dataset contains below variables:
 
-| Variables | Rideable type | Started at | Ended at |  
+| Variables |  
