@@ -58,7 +58,8 @@ The Citi Bike dataset contains below variables:
    ![Daily ride analysis-members(March)](https://github.com/amo11/citi-bike-data-analysis/assets/169110417/73aeed45-6985-418f-b941-21d9a41eff25)
 
 
-   ![Daily Ride Analysis - March (casuals)](https://github.com/amo11/citi-bike-data-analysis/assets/169110417/dc4aaecf-ceca-4149-b9dd-ea980244789c)
+   ![Daily Ride Analysis - March (casuals)](https://github.com/amo11/citi-bike-data-analysis/assets/169110417/343e5aa0-6543-47d4-a20d-9f0bdfd46e3e)
+
 
    The variation in total number of riders in different months can be attributed to the season during a particular month i.e. winter, spring, summer, autumn.
 
