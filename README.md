@@ -1,4 +1,4 @@
-# citi-bike-data-analysis
+# Citi Bike Data Analysis
 
 ## Project Overview
 This project aims to comprehensively analyze the one year’s (2023) data of Citi Bike sharing system in NYC. The report contains graphs showing peak hours, total rides during weekday/weekend/holiday, pattern of rides during various weather condition and popular routes for each type of riders. 
